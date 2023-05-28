@@ -1,0 +1,108 @@
+{
+  "indexes": [
+    {
+      "collectionId": "cinemas",
+      "fields": [
+        {
+          "fieldPath": "city",
+          "mode": "ASCENDING"
+        },
+        {
+          "fieldPath": "avgRating",
+          "mode": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionId": "cinemas",
+      "fields": [
+        {
+          "fieldPath": "category",
+          "mode": "ASCENDING"
+        },
+        {
+          "fieldPath": "avgRating",
+          "mode": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionId": "cinemas",
+      "fields": [
+        {
+          "fieldPath": "price",
+          "mode": "ASCENDING"
+        },
+        {
+          "fieldPath": "avgRating",
+          "mode": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionId": "cinemas",
+      "fields": [
+        {
+          "fieldPath": "city",
+          "mode": "ASCENDING"
+        },
+        {
+          "fieldPath": "numRatings",
+          "mode": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionId": "cinemas",
+      "fields": [
+        {
+          "fieldPath": "category",
+          "mode": "ASCENDING"
+        },
+        {
+          "fieldPath": "numRatings",
+          "mode": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionId": "cinemas",
+      "fields": [
+        {
+          "fieldPath": "price",
+          "mode": "ASCENDING"
+        },
+        {
+          "fieldPath": "numRatings",
+          "mode": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionId": "cinemas",
+      "fields": [
+        {
+          "fieldPath": "city",
+          "mode": "ASCENDING"
+        },
+        {
+          "fieldPath": "price",
+          "mode": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionId": "cinemas",
+      "fields": [
+        {
+          "fieldPath": "category",
+          "mode": "ASCENDING"
+        },
+        {
+          "fieldPath": "price",
+          "mode": "ASCENDING"
+        }
+      ]
+    }
+  ]
+}
